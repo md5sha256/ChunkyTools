@@ -1,0 +1,8 @@
+name: SellChest
+version: '${version}'
+main: io.github.md5sha256.chunkytools.ChunkyToolsPlugin
+api-version: 1.19
+prefix: SellChest
+authors: [andrewandy]
+softdepend:
+  - vault
